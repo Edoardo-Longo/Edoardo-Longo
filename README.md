@@ -1,7 +1,7 @@
 ### Hi there, I'm Edoardo Longo
 
-I love playing videogames, guitar and coding
-I'm studying to become a feullstack web developer using React and Node
+I love coding, playing videogames and guitar
+I'm studying to become a fullstack web developer using React and Node
 
 <!--
 **Edoardo-Longo/Edoardo-Longo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
