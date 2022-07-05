@@ -1,6 +1,6 @@
 ### Hi there, I'm Edoardo Longo
 
-I love coding, playing videogames and guitar
+I love coding, playing videogames and guitar,
 I'm studying to become a fullstack web developer using React and Node
 How to reach me: edoardo.longo.1999@gmail.com or https://www.linkedin.com/in/edoardo-longo-59b8aa232/
 
